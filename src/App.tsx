@@ -1,3 +1,4 @@
+import Footer from "./components/Footer"
 import HeroSection from "./components/HeroSection"
 import Nav from "./components/Nav"
 
@@ -7,6 +8,7 @@ function App() {
     <>
         <Nav/>
         <HeroSection />
+        <Footer />
     </>
   )
 }
