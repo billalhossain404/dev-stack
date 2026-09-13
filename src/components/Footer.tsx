@@ -15,41 +15,41 @@ const Footer = () => {
                     </div>
                 </div>
 
-                 <div className="w-[55%]">
-        <table className="w-full">
-            <thead>
-                <tr>
-                    <th className="text-left pb-4">PRODUCT</th>
-                    <th className="text-left pb-4">COMPANY</th>
-                    <th className="text-left pb-4">LEGAL</th>
-                </tr>
-            </thead>
+                <div className="w-[55%]">
+                    <table className="w-full">
+                        <thead>
+                            <tr>
+                                <th className="text-left pb-4">PRODUCT</th>
+                                <th className="text-left pb-4">COMPANY</th>
+                                <th className="text-left pb-4">LEGAL</th>
+                            </tr>
+                        </thead>
 
-            <tbody className="text-[#64748B]">
-                <tr>
-                    <td className="pb-3">Home</td>
-                    <td className="pb-3">About</td>
-                    <td className="pb-3">Privacy Policy</td>
-                </tr>
+                        <tbody className="text-[#64748B]">
+                            <tr>
+                                <td className="pb-3">Home</td>
+                                <td className="pb-3">About</td>
+                                <td className="pb-3">Privacy Policy</td>
+                            </tr>
 
-                <tr>
-                    <td className="pb-3">Technologies</td>
-                    <td className="pb-3">Contact</td>
-                    <td className="pb-3">Terms of Service</td>
-                </tr>
+                            <tr>
+                                <td className="pb-3">Technologies</td>
+                                <td className="pb-3">Contact</td>
+                                <td className="pb-3">Terms of Service</td>
+                            </tr>
 
-                <tr>
-                    <td>Projects</td>
-                    <td>Careers</td>
-                    <td></td>
-                </tr>
-            </tbody>
-        </table>
+                            <tr>
+                                <td>Projects</td>
+                                <td>Careers</td>
+                                <td></td>
+                            </tr>
+                        </tbody>
+                    </table>
                 </div>
 
             </div>
 
-              <hr className="text-gray-100 mb-8 mt-20" />
+            <hr className="text-gray-100 mb-8 mt-20" />
 
             <div className="flex justify-between mb-10 text-[#94A3B8]">
                 <p>&copy; 2026 Dev Stack. All rights reserved.</p>
@@ -58,7 +58,7 @@ const Footer = () => {
                     <p>Terms</p>
                 </div>
             </div>
-            
+
         </div>
     );
 };

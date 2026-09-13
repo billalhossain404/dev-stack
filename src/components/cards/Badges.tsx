@@ -16,9 +16,7 @@ function getBadgeColor(badge: string) {
 
 const Badges = ({ text }: { text: string }) => {
   return (
-    <span className={`rounded-full px-3 py-1 text-xs font-medium ${getBadgeColor(text)}`}>
-      {text}
-    </span>
+    <span className={`rounded-full px-3 py-1 text-xs font-medium ${getBadgeColor(text)}`}> {text}</span>
   );
 };
 
