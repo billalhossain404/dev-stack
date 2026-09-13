@@ -6,8 +6,9 @@
     "category": "Frontend",
     "level": "Beginner-Friendly",
     "rating": 4.9,
-    "icon": "FaReact"
+    "icon": "SiReact"
   },
+
   {
     "name": "Vue.js",
     "badge": "Versatile",
@@ -15,8 +16,9 @@
     "category": "Frontend",
     "level": "Beginner-Friendly",
     "rating": 4.8,
-    "icon": "FaVuejs"
+    "icon": "SiVuedotjs"
   },
+
   {
     "name": "Svelte",
     "badge": "Fast",
@@ -26,6 +28,7 @@
     "rating": 4.8,
     "icon": "SiSvelte"
   },
+
   {
     "name": "Next.js",
     "badge": "",
@@ -35,6 +38,7 @@
     "rating": 4.9,
     "icon": "SiNextdotjs"
   },
+
   {
     "name": "Node.js",
     "badge": "Standard",
@@ -42,8 +46,9 @@
     "category": "Backend",
     "level": "Intermediate",
     "rating": 4.8,
-    "icon": "FaNodeJs"
+    "icon": "SiNodedotjs"
   },
+
   {
     "name": "PostgreSQL",
     "badge": "Top SQL",
@@ -53,6 +58,7 @@
     "rating": 4.9,
     "icon": "SiPostgresql"
   },
+
   {
     "name": "Redis",
     "badge": "Cache",
@@ -62,6 +68,7 @@
     "rating": 4.8,
     "icon": "SiRedis"
   },
+
   {
     "name": "JavaScript",
     "badge": "Ubiquitous",
@@ -69,8 +76,9 @@
     "category": "Language",
     "level": "Beginner-Friendly",
     "rating": 4.9,
-    "icon": "FaJsSquare"
+    "icon": "SiJavascript"
   },
+
   {
     "name": "TypeScript",
     "badge": "Essential",
@@ -80,6 +88,7 @@
     "rating": 4.9,
     "icon": "SiTypescript"
   },
+
   {
     "name": "Java",
     "badge": "Robust",
@@ -89,6 +98,7 @@
     "rating": 4.6,
     "icon": "FaJava"
   },
+
   {
     "name": "Tailwind CSS",
     "badge": "Modern",
@@ -98,6 +108,7 @@
     "rating": 4.9,
     "icon": "SiTailwindcss"
   },
+
   {
     "name": "Docker",
     "badge": "Containers",
